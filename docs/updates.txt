@@ -1,3 +1,48 @@
+# 2025-09-21 00:27
+- [chore(contributors): Update CONTRIBUTORS.md](https://github.com/TRaSH-Guides/Guides/pull/)
+- [feat(guide-sync): Added more groups as optionals](https://github.com/TRaSH-Guides/Guides/pull/2476)
+- [feat(starr-german): Add Release Groups to German Tiers](https://github.com/TRaSH-Guides/Guides/pull/2489)
+- [fix(starr): HDR CF DV condition](https://github.com/TRaSH-Guides/Guides/pull/2492)
+
+# 2025-09-14 00:26
+- [chore(guide): Updated the home/index page](https://github.com/TRaSH-Guides/Guides/pull/2488)
+- [feat(radarr): Add RlsGrp `PiRAMiDHEAD` to `Remux Tier 01`](https://github.com/TRaSH-Guides/Guides/pull/2487)
+- [feat(starr): Renamed `DV (WEBDL)` to `DV (w/o HDR fallback)`](https://github.com/TRaSH-Guides/Guides/pull/2485)
+
+# 2025-09-07 00:26
+- [fix(starr): audio channel CFs consistency](https://github.com/TRaSH-Guides/Guides/pull/2478)
+- [update(anime): remove CRUCiBLE due to retagging](https://github.com/TRaSH-Guides/Guides/pull/2477)
+
+# 2025-08-31 00:27
+- [refactor(starr): remove unnecessary HDR regex](https://github.com/TRaSH-Guides/Guides/pull/2475)
+- [feat(starr): Refactoring of the HDR Formats](https://github.com/TRaSH-Guides/Guides/pull/2455)
+- [feat(starr-anime): Add Headpatter to Anime Tier 03](https://github.com/TRaSH-Guides/Guides/pull/2473)
+
+# 2025-08-24 00:28
+- [feat(radarr): Add RlsGrp `TheFarm` to `WEB Tier 01`](https://github.com/TRaSH-Guides/Guides/pull/2470)
+- [chore(misc): enable Renovate management of pre-commit hooks](https://github.com/TRaSH-Guides/Guides/pull/2467)
+- [feat(starr): Move RlsGrp `BYNDR` to `WEB Tier 02`](https://github.com/TRaSH-Guides/Guides/pull/2464)
+- [feat(sonarr): Add RlsGrp `BiOMA` to `Bad Dual Groups`](https://github.com/TRaSH-Guides/Guides/pull/2463)
+- [feat(radarr): Add DRX to LQ](https://github.com/TRaSH-Guides/Guides/pull/2466)
+
+# 2025-08-17 00:29
+- [chore(misc): improve Renovate configuration with PR method and smart dependency grouping](https://github.com/TRaSH-Guides/Guides/pull/2457)
+- [chore(contributors): Update CONTRIBUTORS.md](https://github.com/TRaSH-Guides/Guides/pull/)
+- [fix(gha): exclude ImgBotApp](https://github.com/TRaSH-Guides/Guides/pull/)
+- [chore(contributors): Update CONTRIBUTORS.md](https://github.com/TRaSH-Guides/Guides/pull/)
+- [fix(gha): add missing token for contributors](https://github.com/TRaSH-Guides/Guides/pull/)
+- [chore(gha): update contributors and remove complexity](https://github.com/TRaSH-Guides/Guides/pull/2449)
+
+# 2025-08-10 00:30
+- [feat(starr): Update scene](https://github.com/TRaSH-Guides/Guides/pull/2447)
+
+# 2025-08-03 00:31
+- [fix(config): allow renovate to migrate its own config](https://github.com/TRaSH-Guides/Guides/pull/2441)
+
+# 2025-07-27 00:31
+- [fix(guide-sync): Updated Radarr Optional Misc custom format group HFR ID to match Radarr custom format HFR ID](https://github.com/TRaSH-Guides/Guides/pull/2442)
+- [feat(guide): Add D3US to `lq-release-title.json`](https://github.com/TRaSH-Guides/Guides/pull/2439)
+
 # 2025-07-20 00:30
 - [feat(starr): Updated the Starr naming scheme and made it as consistent as possible](https://github.com/TRaSH-Guides/Guides/pull/2416)
 - [feat(starr-french): Update Group Tiers](https://github.com/TRaSH-Guides/Guides/pull/2437)
